@@ -10,7 +10,7 @@ This repository is mainly focused on creating and experimenting with CSS layouts
 - SpaceHey profile layouts
 - CSS experiments
 - Retro web-inspired designs
-- Windows Vista / Windows 7 inspired themes
+- Aero/ Old fashioned/ Game / fandom inspired themes
 - Random coding projects and ideas
 
 ## About
